@@ -1,3 +1,4 @@
+#Project Name: The Magic 8-Ball
 import random
 
 name = "Joe "
